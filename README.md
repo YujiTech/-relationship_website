@@ -19,5 +19,5 @@ npm install
 `npm run dev``
 4. Open your browser and navigate to http://localhost:5173/ (default Vite dev server URL).
 
-password: 101
+password: 1018
 
